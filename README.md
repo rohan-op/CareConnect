@@ -1,4 +1,4 @@
-# Software Engineering Project Repository
+# CareConnect
 
 Code/Document repository for CSCI-P 565 Software Engineering - Spring 2023
 
@@ -28,15 +28,3 @@ Code/Document repository for CSCI-P 565 Software Engineering - Spring 2023
 - npm i axios
 - npm i react-router-dom
 - npm install react-bootstrap
-
-# References
-
-# Postgres:
-- dbname = postgres
-- user = postgres
-- password = postgres
-
-# Django Admin:
-- username: geni
-- password: 12345
-
